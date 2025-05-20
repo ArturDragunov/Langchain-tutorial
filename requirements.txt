@@ -1,4 +1,5 @@
-langchain_openai 
+langchain_openai
+langchain-deepseek
 langchain_core
 python-dotenv
 streamlit
